@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/eraser.svg</file>
+        <file>img/bold.svg</file>
+        <file>img/italic.svg</file>
+        <file>img/underline.svg</file>
+        <file>img/font.svg</file>
+        <file>img/fill-drip.svg</file>
+        <file>img/fill-drip-small.svg</file>
+        <file>img/font-small.svg</file>
+        <file>img/diagonal-line.svg</file>
+        <file>img/arrow-pointer.svg</file>
+        <file>img/circle.svg</file>
+        <file>img/trash-not-save.svg</file>
+        <file>img/trash-save.svg</file>
+        <file>img/connect-all.svg</file>
+        <file>img/connect-one.svg</file>
+    </qresource>
+</RCC>
